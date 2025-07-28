@@ -202,6 +202,14 @@ Welcome to my Data Engineering learning journey 🚀. This repository contains m
 
 ---
 
+## 🛠️ Projects of Data Engineering
+
+| Sl. No. | Project Name | Description |
+|--------:|--------------|-------------|
+| 01 | *To be added...* | This section will include beginner-level Data Engineering mini-projects. Stay tuned! |
+
+---
+
 ## 🌟 Highlights of the Course
 
 1. 📊 **Industry-ready Projects**: Every course includes hands-on projects with real-world use-cases.  
@@ -212,13 +220,6 @@ Welcome to my Data Engineering learning journey 🚀. This repository contains m
 
 ---
 
-## 🛠️ Projects of Data Engineering
-
-| Sl. No. | Project Name | Description |
-|--------:|--------------|-------------|
-| 01 | *To be added...* | This section will include beginner-level Data Engineering mini-projects. Stay tuned! |
-
----
 
 ## 🖼️ Demo and Screenshots
 
