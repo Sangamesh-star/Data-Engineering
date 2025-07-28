@@ -210,7 +210,7 @@ Welcome to my Data Engineering learning journey 🚀. This repository contains m
 
 ---
 
-## 🌟 Highlights of the Course
+## 🌟 Highlights
 
 1. 📊 **Industry-ready Projects**: Every course includes hands-on projects with real-world use-cases.  
 2. 🧠 **Full Stack Learning**: From programming and databases to cloud and BI tools.  
